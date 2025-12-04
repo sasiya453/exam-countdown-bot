@@ -13,7 +13,7 @@ BOT_TOKEN = os.environ.get('BOT_TOKEN')
 CHAT_ID = os.environ.get('CHAT_ID') 
 
 # Set your Exam Date (Year, Month, Day)
-TARGET_DATE = datetime.datetime(2026, 8, 1, 0, 0, 0) 
+TARGET_DATE = datetime.datetime(2026, 8, 10, 0, 0, 0) 
 EXAM_NAME = "2026 A/L"
 
 # Daily Quotes List
